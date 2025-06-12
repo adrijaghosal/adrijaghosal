@@ -47,12 +47,29 @@ Here are some things I’ve worked on:
 <p h align="center">
   <h3 Let’s connect and grow together! 🚀></h3></p>
 
-<p align="left">
-  <a href="mailto:adrijaghosal@gmail.com"><img src="https://img.shields.io/badge/Gmail-adrijaghosal@gmail.com-red?style=flat&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/adrijaghosal"><img src="https://img.shields.io/badge/LinkedIn-Adrija%20Ghosal-blue?style=flat&logo=linkedin"></a>
-  <!-- Add any other social links here -->
+### 📫 Let's Connect!
+
+<p align="center">
+  <a href="mailto:adrijaghosal@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" title="Gmail" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/adrija-ghosal-114b052b2" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" title="LinkedIn" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/ghosaladrija24" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/x.png" title="X (Twitter)" alt="X (Twitter)" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/adrij_aghosal/?hl=en" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" title="Instagram" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/adrijaghosal2005" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" title="Facebook" alt="Facebook"/>
+  </a>
 </p>
 
----
 
 <em>“Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs</em>
