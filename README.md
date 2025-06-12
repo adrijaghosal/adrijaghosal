@@ -35,8 +35,6 @@
 - ♻️ **ecoXchange** – A platform where waste finds purpose — users can exchange unused or waste items in eco-friendly, community-driven ways  
 - 🎨 **UI Collections** – From dashboard layouts to landing pages and mobile app flows, I enjoy crafting smooth and stylish user interfaces  
 - 🧠 **Mental Health Tracker (UI only)** – A calming, minimal UI concept to help users reflect on mood and wellness  
-- 🎯 Always ideating and building new experiences where **form meets function**
-
 
 
 ---
@@ -54,7 +52,7 @@ Design is not just visuals — it’s storytelling, flow, and empathy. Here are 
 - 💖 **Dating App UI** – *Coming Soon*  
   *A user-friendly, emotion-first design merging love, locality, and future vision.*
 
-> 🧠 *Built with empathy, crafted with clarity — more coming soon!*
+
 
 ### 📈 GitHub Stats
 
