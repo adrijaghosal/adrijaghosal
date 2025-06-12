@@ -1,18 +1,28 @@
 <h1 align="center">Hi 👋, I'm Adrija Ghosal</h1>
-<h3 align="center">Frontend Enthusiast | UI/UX Designer | React Learner</h3>
+<h3 align="center">Frontend Enthusiast | UI/UX Designer </h3> 
+
+
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
 </p>
+--- 
+
+### 💫 About Me
+- 🌱 Currently deep diving into **React.js** & crafting beautiful, responsive UIs  
+- 🎨 Obsessed with **UI/UX design** — turning ideas into intuitive & elegant experiences  
+- 💻 My toolkit: **HTML**, **CSS**, **JavaScript**, **Figma**, & a dash of creativity 🎨  
+- 🚀 Always excited to collaborate on frontend projects that **empower users & delight**  
+- ✨ Believer in continuous learning, growth, and girl power in tech 💪👩‍💻
 
 ---
 
-### 💫 About Me
-- 🌱 I'm currently diving deep into **React.js** and building modern frontend interfaces  
-- 🎨 Passionate about **UI/UX design** – I love turning ideas into beautiful user experiences  
-- 💻 Tech stack: **HTML**, **CSS**, **JavaScript**, and basic **Figma**  
-- 🚀 Open to collaborations in web design and frontend projects  
-- ✨ Always curious to learn and explore more in tech and design
+### 🎮 Fun Side: UI/UX + Games = ❤️
+I love combining design with interactive elements. Here are some mini passions:  
+- 🕹️ Designing smooth game UIs with user flow focus  
+- 🎮 Exploring gamification techniques for apps & websites  
+- 🎯 Crafting pixel-perfect micro-interactions that surprise & engage users  
+- 🎨 Collecting cool UI kits and experimenting with color theory & typography  
 
 ---
 
@@ -27,11 +37,19 @@
 
 ---
 
-### 🚀 Projects
-Here are some things I’ve worked on:
-- 🔐 **Women’s Safety Website** – A platform for safety alerts, emergency help, and awareness
-- 💖 **Dating App UI** – Designed a modern matchmaking experience focusing on emotional & local connections
-- 🎯 More cool things coming soon...
+### 🚀 Projects & Passions
+- 🔐 **Women’s Safety Website** – Building tech that protects and empowers  
+- 💖 **Dating App UI** – Designing experiences with emotional connection in mind  
+- 🎯 **Game UI Concepts** – Experimenting with playful and immersive interfaces  
+- 🎉 More creative projects coming soon — stay tuned!  
+
+---
+
+### 🎨 Inspiration & Learning
+
+> “Good design is obvious. Great design is transparent.” — Joe Sparano  
+>   
+> I love following design legends like [Don Norman](https://www.nngroup.com/articles/definition-user-experience/), [Julie Zhuo](https://www.juliezhuo.com/), and exploring UX case studies on [Behance](https://www.behance.net/) & [Dribbble](https://dribbble.com/).
 
 ---
 
@@ -44,7 +62,7 @@ Here are some things I’ve worked on:
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Let’s Connect & Create Magic!
 
 <p align="center">
   <a href="mailto:adrijaghosal@gmail.com" target="_blank">
@@ -67,6 +85,5 @@ Here are some things I’ve worked on:
     <img src="https://img.icons8.com/color/48/000000/facebook-new.png" title="Facebook" alt="Facebook"/>
   </a>
 </p>
-
 
 <em>“Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs</em>
