@@ -37,10 +37,24 @@
 - 🧠 **Mental Health Tracker (UI only)** – A calming, minimal UI concept to help users reflect on mood and wellness  
 - 🎯 Always ideating and building new experiences where **form meets function**
 
----
 
 
 ---
+
+### 🖼️ UI/UX Design Gallery
+
+Design is not just visuals — it’s storytelling, flow, and empathy. Here are some of my featured prototypes:
+
+- ♻️ [**ecoXchange** – Sustainable Exchange Platform](https://www.figma.com/proto/hJyu7rmkJ3V61d7frdyZsC/EcoXchange?node-id=77-8742&p=f&t=OHpF7qO516VfduWS-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=77%3A8742&show-proto-sidebar=1)  
+  *Enabling communities to give waste a second life through smart, clean UI.*
+
+- 🔥 [**Arsona Sentinel** – Fire Safety App](https://www.figma.com/proto/DwTGrnVb8wryX7frdZ2w7f/Arsona-Sentinel?node-id=4-2&p=f&t=4lvzKOE40hUdf16c-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A2&show-proto-sidebar=1)  
+  *A life-saving interface for fire alerts, emergency response, and awareness training.*
+
+- 💖 **Dating App UI** – *Coming Soon*  
+  *A user-friendly, emotion-first design merging love, locality, and future vision.*
+
+> 🧠 *Built with empathy, crafted with clarity — more coming soon!*
 
 ### 📈 GitHub Stats
 
