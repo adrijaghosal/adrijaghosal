@@ -47,7 +47,9 @@ Here are some things I’ve worked on:
 <p h align="center">
   <h3 Let’s connect and grow together! 🚀></h3></p>
 
-### 📫 Let's Connect!
+<p align="center">
+  <h3 Let’s connect and grow together! 🚀></h3></p>
+
 
 <p align="center">
   <a href="mailto:adrijaghosal@gmail.com" target="_blank">
