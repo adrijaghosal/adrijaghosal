@@ -13,16 +13,20 @@
 - 🎨 Obsessed with **UI/UX design** — turning ideas into intuitive & elegant experiences  
 - 💻 My toolkit: **HTML**, **CSS**, **JavaScript**, **Figma**, & a dash of creativity 🎨  
 - 🚀 Always excited to collaborate on frontend projects that **empower users & delight**  
-- ✨ Believer in continuous learning, growth, and girl power in tech 💪👩‍💻
+- ✨ Believer in continuous learning, growth💪👩‍💻
 
 ---
 
 ### 🎮 Fun Side: UI/UX + Games = ❤️
-I love combining design with interactive elements. Here are some mini passions:  
-- 🕹️ Designing smooth game UIs with user flow focus  
-- 🎮 Exploring gamification techniques for apps & websites  
-- 🎯 Crafting pixel-perfect micro-interactions that surprise & engage users  
-- 🎨 Collecting cool UI kits and experimenting with color theory & typography  
+Design is fun — but making it playful is even better! As a UI/UX lover, I enjoy blending creativity with interactivity. Here's what I’ve been experimenting with:
+
+- 🕹️ [Play Snake 🐍](https://adrijaghosal.github.io/snake-game/) – A simple browser-based game to explore user interaction flows  
+- 🎨 [Color Picker Challenge](https://adrijaghosal.github.io/color-picker-ui/) – A mini UI project based on creative color theory  
+- 🧩 Mini Puzzle Game – Coming soon with fun micro-interactions & clean UI  
+- 🎯 Designing clickable prototypes with feedback animations using **Figma**  
+- ✨ Exploring how gamification can boost user retention in everyday apps
+
+> *More fun game-UIs and design hacks coming to this space soon... stay tuned!*
 
 ---
 
