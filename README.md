@@ -6,7 +6,6 @@
 <p align="center">
   <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
 </p>
---- 
 
 ### 💫 About Me
 - 🌱 Currently deep diving into **React.js** & crafting beautiful, responsive UIs  
@@ -17,16 +16,6 @@
 
 ---
 
-### 🎮 Fun Side: UI/UX + Games = ❤️
-Design is fun — but making it playful is even better! As a UI/UX lover, I enjoy blending creativity with interactivity. Here's what I’ve been experimenting with:
-
-- 🕹️ [Play Snake 🐍](https://adrijaghosal.github.io/snake-game/) – A simple browser-based game to explore user interaction flows  
-- 🎨 [Color Picker Challenge](https://adrijaghosal.github.io/color-picker-ui/) – A mini UI project based on creative color theory  
-- 🧩 Mini Puzzle Game – Coming soon with fun micro-interactions & clean UI  
-- 🎯 Designing clickable prototypes with feedback animations using **Figma**  
-- ✨ Exploring how gamification can boost user retention in everyday apps
-
-> *More fun game-UIs and design hacks coming to this space soon... stay tuned!*
 
 ---
 
@@ -49,11 +38,6 @@ Design is fun — but making it playful is even better! As a UI/UX lover, I enjo
 
 ---
 
-### 🎨 Inspiration & Learning
-
-> “Good design is obvious. Great design is transparent.” — Joe Sparano  
->   
-> I love following design legends like [Don Norman](https://www.nngroup.com/articles/definition-user-experience/), [Julie Zhuo](https://www.juliezhuo.com/), and exploring UX case studies on [Behance](https://www.behance.net/) & [Dribbble](https://dribbble.com/).
 
 ---
 
