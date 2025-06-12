@@ -14,7 +14,6 @@
 - 🚀 Always excited to collaborate on frontend projects that **empower users & delight**  
 - ✨ Believer in continuous learning, growth💪👩‍💻
 
----
 
 
 ---
@@ -31,10 +30,12 @@
 ---
 
 ### 🚀 Projects & Passions
-- 🔐 **Women’s Safety Website** – Building tech that protects and empowers  
-- 💖 **Dating App UI** – Designing experiences with emotional connection in mind  
-- 🎯 **Game UI Concepts** – Experimenting with playful and immersive interfaces  
-- 🎉 More creative projects coming soon — stay tuned!  
+
+- 💖 **Dating App UI** – A modern matchmaking design that focuses on emotional bonding and local connections, with future-vision VR ideas  
+- ♻️ **ecoXchange** – A platform where waste finds purpose — users can exchange unused or waste items in eco-friendly, community-driven ways  
+- 🎨 **UI Collections** – From dashboard layouts to landing pages and mobile app flows, I enjoy crafting smooth and stylish user interfaces  
+- 🧠 **Mental Health Tracker (UI only)** – A calming, minimal UI concept to help users reflect on mood and wellness  
+- 🎯 Always ideating and building new experiences where **form meets function**
 
 ---
 
