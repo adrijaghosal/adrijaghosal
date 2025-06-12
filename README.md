@@ -44,7 +44,9 @@ Here are some things I’ve worked on:
 
 ---
 
-### 📫 Let's Connect!
+<p h align="center">
+  <h3 Let’s connect and grow together! 🚀></h3></p>
+
 <p align="left">
   <a href="mailto:adrijaghosal@gmail.com"><img src="https://img.shields.io/badge/Gmail-adrijaghosal@gmail.com-red?style=flat&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/adrijaghosal"><img src="https://img.shields.io/badge/LinkedIn-Adrija%20Ghosal-blue?style=flat&logo=linkedin"></a>
