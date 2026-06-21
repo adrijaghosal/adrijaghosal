@@ -15,8 +15,9 @@
 
 Frontend developer and UI/UX designer with a strong focus on creating seamless, responsive, and user-centered digital experiences. Currently pursuing B.Tech in Computer Science Engineering.
 
-- **Core Skills**: HTML, CSS, JavaScript, React.js
+- **Core Skills**: HTML, CSS, JavaScript, React.js, Firebase
 - **Design Tools**: Figma, Canva
+- **Version Control**: Git, GitHub
 - **Development Focus**: Frontend Engineering, UI/UX Design, Responsive Web Design
 - **Design Philosophy**: Building interfaces that are both functional and visually compelling
 
@@ -35,7 +36,7 @@ Frontend developer and UI/UX designer with a strong focus on creating seamless, 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,vscode" height="50" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,figma,git,github,vscode" height="50" alt="tech stack" />
 </p>
 
 ---
@@ -50,6 +51,7 @@ Frontend developer and UI/UX designer with a strong focus on creating seamless, 
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
       </p>
     </td>
     <td width="33%">
@@ -58,6 +60,7 @@ Frontend developer and UI/UX designer with a strong focus on creating seamless, 
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
       </p>
     </td>
     <td width="33%">
@@ -67,6 +70,7 @@ Frontend developer and UI/UX designer with a strong focus on creating seamless, 
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
       </p>
     </td>
   </tr>
@@ -99,11 +103,9 @@ Frontend developer and UI/UX designer with a strong focus on creating seamless, 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrijaghosal&theme=radical&hide_border=true&background=0d1117" />
 </p>
 
+
+
 ---
-
-
-
-
 
 ### 🌐 Connect With Me
 
